@@ -2,7 +2,7 @@
 // 9/15/21
 // Method Overriding
 
-package com.cognixia.jump.java8_streams;
+package com.cognixa.jump.stream_practice;
 public class Shape implements Comparable<Shape> {
 	
 	public Double Area() {

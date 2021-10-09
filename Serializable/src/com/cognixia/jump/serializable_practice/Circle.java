@@ -3,7 +3,7 @@
 // Method Overriding
 
 
-package com.cognixia.jump.java8_streams;
+package com.cognixia.jump.serializable_practice;
 
 public class Circle extends Shape {
 	private double radius; 

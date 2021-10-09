@@ -3,7 +3,7 @@
 // Method Overriding
 
 
-package com.cognixia.jump.java8_streams;
+package com.cognixa.jump.stream_practice;
 public class Square extends Shape{
 	
 	private double side; 
